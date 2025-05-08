@@ -1,8 +1,6 @@
 # Pangea in Latent Space
 <img width="621" alt="Screenshot 2025-04-25 at 9 46 45 AM" src="https://github.com/user-attachments/assets/97a90300-153c-442d-bcb9-7d586965538f" />
 
-# Pangea in Latent Space
-
 *By the Pangea AI Collective: Marlon Barrios Solano & Maria Luisa Angulo*
 
 **Pangea in Latent Space** is a transdisciplinary project that reimagines institutional and theatrical spaces as dynamic environments for activation, dialogue, and creative exploration. Developed by the Pangea AI Collective—led by Marlon Barrios Solano (Venezuela/USA) and Maria Luisa Angulo (El Salvador/France)—the project offers a living platform where conversations and actions surrounding artificial intelligence, colonization, and the Global South unfold in real time.
