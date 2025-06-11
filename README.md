@@ -3,6 +3,37 @@
 
 *By the Pangea AI Collective: Marlon Barrios Solano & Maria Luisa Angulo*
 
+# Pangea AI (Web Version) – June 2025
+
+**Pangea AI** is an artistic and research collective co-founded by Maria Luisa Angulo (France/El Salvador) and Marlon Barrios Solano (USA/Venezuela). It emerges under the institutional umbrella of **TRIAS CULTURE** (Dakar–Paris) and with the support of the **Center for Arts, Migration and Entrepreneurship (CAME)** at the University of Florida (USA).
+
+The project originates from a critical reflection on the impact of disruptive technologies—particularly Artificial Intelligence (AI)—and proposes a situated, poetic, and decolonial artistic practice.
+
+From the experience of migrant bodies, we weave together art, technology, and critical thought as interdependent territories, with a focus on the body and the performing arts. Our work understands AI not as a neutral tool, but as a territory of symbolic, political, and epistemic struggle.
+
+Through workshops, residencies, installations, performances, technopoetic tools, and algorithms that learn to listen, we intervene in space as a site of affect, critical creation, and collective nomadic imagination—envisioning new forms of knowledge and **Re-Existence**, outside hegemonic narratives of progress.
+
+---
+
+## Pangea AI’s Lines of Flight  
+### The Nomade-Lab of Pangea AI
+
+The **Nomade-Lab** is an itinerant platform dedicated to experimentation, creation, research, and critical education. Operating as mobile spaces for exchange among artists and creators from various latitudes—especially from Africa and Latin America—its aim is to activate collaborative, plural, and situated processes.
+
+From a critical perspective, the Nomade-Labs seek to transform our own creative and research processes into nomadic knowledge and to explore horizontal ways of sharing—stepping away from automated and mimetic learning models in favor of situated practices of knowledge appropriation and collective creation.
+
+For the workshops, we collaborate with **Motion Bank** on the *Choreographic Coding Lab* series, and with the **Meta-creation Lab** at Simon Fraser University to offer workshops on open-source generative AI tools for artists. These collaborations enrich the program with advanced research methodologies and access to cutting-edge tools and frameworks.
+
+---
+
+## Movements in Latent Space: Generative AI and Choreographic Embodiment
+
+The practical workshop *“Movements in Latent Space: Generative AI and Choreographic Embodiment”* is part of the Nomade-Lab program and proposes an exploration of the creative potential of generative AI—such as large language models, sound synthesis, and image generation—from a performative and embodied perspective.
+
+Designed for movement artists and creative technologists without coding experience, the workshop offers a multimodal space for experimentation and critical reflection. Here, the body becomes a sensitive interface, a catalyst, and a generative trigger—opening up new aesthetic possibilities that decenter dominant narratives and foreground embodied, relational, and situated practices.
+
+
+
 **Pangea in Latent Space** is a transdisciplinary project that reimagines institutional and theatrical spaces as dynamic environments for activation, dialogue, and creative exploration. Developed by the Pangea AI Collective—led by Marlon Barrios Solano (Venezuela/USA) and Maria Luisa Angulo (El Salvador/France)—the project offers a living platform where conversations and actions surrounding artificial intelligence, colonization, and the Global South unfold in real time.
 
 The project is set to premiere at **Theater im Depot** in Dortmund, Germany, from **October 1–5, 2025**, as part of the **Decolonizing the Digital** residency program. This initiative is a collaboration between Theater im Depot, the Academy for Theatre and Digitality, and Kulturforum Witten, and is supported by the Ministry of Culture and Science of the State of North Rhine-Westphalia, the LWL-Kulturstiftung, the Cultural Office of the City of Dortmund, and the Kulturstiftung Dortmund.
@@ -72,3 +103,4 @@ The project unfolds through multiple interconnected formats:
 **Pangea in Latent Space** is both an artwork and a method. It queers conventional formats, unearths post-geographic imaginaries, and cultivates new modes of sense-making. By fusing speculative practices, generative technologies, and decolonial methodologies, it becomes a transformative ecology—one that reimagines how we inhabit AI and how AI, in turn, inhabits us.
 
 ---
+
