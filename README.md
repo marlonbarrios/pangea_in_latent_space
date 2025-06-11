@@ -3,7 +3,7 @@
 
 *By the Pangea AI Collective: Marlon Barrios Solano & Maria Luisa Angulo*
 
-# Pangea AI (Web Version) – June 2025
+# Pangea AI – June 2025
 
 **Pangea AI** is an artistic and research collective co-founded by Maria Luisa Angulo (France/El Salvador) and Marlon Barrios Solano (USA/Venezuela). It emerges under the institutional umbrella of **TRIAS CULTURE** (Dakar–Paris) and with the support of the **Center for Arts, Migration and Entrepreneurship (CAME)** at the University of Florida (USA).
 
