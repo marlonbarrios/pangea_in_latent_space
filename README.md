@@ -32,7 +32,9 @@ The practical workshop *“Movements in Latent Space: Generative AI and Choreogr
 
 Designed for movement artists and creative technologists without coding experience, the workshop offers a multimodal space for experimentation and critical reflection. Here, the body becomes a sensitive interface, a catalyst, and a generative trigger—opening up new aesthetic possibilities that decenter dominant narratives and foreground embodied, relational, and situated practices.
 
+________________________________________________________
 
+## Long Version
 
 **Pangea in Latent Space** is a transdisciplinary project that reimagines institutional and theatrical spaces as dynamic environments for activation, dialogue, and creative exploration. Developed by the Pangea AI Collective—led by Marlon Barrios Solano (Venezuela/USA) and Maria Luisa Angulo (El Salvador/France)—the project offers a living platform where conversations and actions surrounding artificial intelligence, colonization, and the Global South unfold in real time.
 
