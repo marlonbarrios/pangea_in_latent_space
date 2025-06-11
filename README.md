@@ -24,6 +24,8 @@ From a critical perspective, the Nomade-Labs seek to transform our own creative 
 
 For the workshops, we collaborate with **Motion Bank** on the *Choreographic Coding Lab* series, and with the **Meta-creation Lab** at Simon Fraser University to offer workshops on open-source generative AI tools for artists. These collaborations enrich the program with advanced research methodologies and access to cutting-edge tools and frameworks.
 
+[Project Visualization](https://marlonbarrios.github.io/pangea_in_latent-space/)
+
 ---
 
 ## Movements in Latent Space: Generative AI and Choreographic Embodiment
