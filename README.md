@@ -8,10 +8,6 @@
 
 Pangea AI is an artistic–research collective responding to the political, symbolic, and epistemic implications of disruptive technologies—especially AI—through a situated, poetic, and decolonial practice. Rooted in the experience of migrant bodies, it fuses art, technology, and critical thought, with a special focus on the performing arts and the body as both site and agent of knowledge.
 
-## **Key Initiatives**
-- **Nomade-Lab:** A traveling platform for experimentation, research, creation, and critical education, connecting artists—particularly from Africa and Latin America—through collaborative, horizontal, and situated processes.
-- **Workshops & Collaborations:** Partnerships with Motion Bank’s *Choreographic Coding Lab* and Simon Fraser University’s *Meta-creation Lab*, offering training in open-source generative AI tools.
-- **Embodied AI Practice:** Programs like *Movements in Latent Space* explore generative AI (LLMs, sound, image) through choreographic and performative perspectives, centering the body as a sensitive interface and creative catalyst.
 
 # **Pangea in Latent Space**
 
@@ -38,4 +34,9 @@ During a two-week research residency in Gainesville, Florida, the team developed
 
 ## **Ethos**
 *Pangea in Latent Space* is both a work and a method—queering conventional formats, reimagining post-geographic worlds, and creating speculative ecologies where humans and AI co-inhabit in transformative ways.
+
+## **Key Initiatives**
+- **Nomade-Lab:** A traveling platform for experimentation, research, creation, and critical education, connecting artists—particularly from Africa and Latin America—through collaborative, horizontal, and situated processes.
+- **Workshops & Collaborations:** Partnerships with Motion Bank’s *Choreographic Coding Lab* and Simon Fraser University’s *Meta-creation Lab*, offering training in open-source generative AI tools.
+- **Embodied AI Practice:** Programs like *Movements in Latent Space* explore generative AI (LLMs, sound, image) through choreographic and performative perspectives, centering the body as a sensitive interface and creative catalyst.
 
