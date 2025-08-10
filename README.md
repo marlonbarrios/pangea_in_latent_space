@@ -1,5 +1,5 @@
 # Pangea AI and Pangea in Latent Space
-<img width="621" alt="Screenshot 2025-04-25 at 9 46 45 AM" src="https://github.com/user-attachments/assets/97a90300-153c-442d-bcb9-7d586965538f" />
+<img width="621" alt="Screenshot 2025-04-25 at 9 46 45 AM" src="https://github.com/user-attachments/assets/a408fcbd-4c1b-4901-b6ce-4614472d8c62" />
 
 # **Pangea AI**
 
