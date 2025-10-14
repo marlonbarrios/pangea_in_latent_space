@@ -1,20 +1,21 @@
-# Pangea AI and Pangea in Latent Space
+
 <img width="621" alt="Screenshot 2025-04-25 at 9 46 45 AM" src="https://github.com/user-attachments/assets/a408fcbd-4c1b-4901-b6ce-4614472d8c62" />
 
 # **Pangea AI**
 
+## August 2024-October 2025
+
+Pangea AI was an artistic–research collective responding to the political, symbolic, and epistemic implications of disruptive technologies—especially AI—through a situated, poetic, and decolonial practice. Rooted in the experience of migrant bodies, it fuses art, technology, and critical thought, with a special focus on the performing arts and the body as both site and agent of knowledge.
+
 **Founders:** Maria Luisa Angulo (France/El Salvador) & Marlon Barrios Solano (USA/Venezuela)  
 **Affiliations:** TRIAS CULTURE (Dakar–Paris) & Center for Arts, Migration and Entrepreneurship (University of Florida, USA)
 
-Pangea AI is an artistic–research collective responding to the political, symbolic, and epistemic implications of disruptive technologies—especially AI—through a situated, poetic, and decolonial practice. Rooted in the experience of migrant bodies, it fuses art, technology, and critical thought, with a special focus on the performing arts and the body as both site and agent of knowledge.
 
 
-# **Pangea in Latent Space**
+# **Pangea in Latent Space and the tectonics of Otherness**
 
 A transdisciplinary extension of **Pangea AI**, *Pangea in Latent Space* transforms institutional and theatrical contexts into dynamic platforms for AI, coloniality, and Global South perspectives. The project premieres **October 1–5, 2025** at *Theater im Depot* (Dortmund, Germany) as part of *Decolonizing the Digital*, supported by multiple cultural institutions in North Rhine-Westphalia.
 
-## **Residency Process**
-During a two-week research residency in Gainesville, Florida, the team developed a thematic and methodological framework blending conceptual inquiry, speculative design, embodied exploration, and tech prototyping.
 
 ## **Core Thematic Nodes**
 1. **Speculative Cartographies** – Alternate maps, mythic geographies (*What if Europe had not existed?*), AI-generated “Pangea people.”
